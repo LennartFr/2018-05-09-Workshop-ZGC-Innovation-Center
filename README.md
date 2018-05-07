@@ -14,6 +14,8 @@ https://www.hyperledger.org/projects/composer
 
 ## hands-on workshop
 
+<img src="https://developer.ibm.com/code/wp-content/uploads/sites/118/2017/09/food-regulation-arch.png">
+
 Build a regulatory application that automates a smart contract deployed on a business network
 
 https://developer.ibm.com/code/patterns/implement-fda-food-supplier-verification-program-on-hyperledger-composer/
