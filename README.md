@@ -7,6 +7,11 @@
 https://www.hyperledger.org/projects/fabric
 
 
+<img src="https://farm1.staticflickr.com/968/27085403057_c8a2ccd0cc_z.jpg" width="640" height="202" alt="composer">
+
+https://www.hyperledger.org/projects/composer
+
+
 
 
 
