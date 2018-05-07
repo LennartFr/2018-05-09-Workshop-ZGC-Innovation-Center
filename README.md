@@ -12,6 +12,13 @@ https://www.hyperledger.org/projects/fabric
 https://www.hyperledger.org/projects/composer
 
 
+## hands-on workshop
+
+Build a regulatory application that automates a smart contract deployed on a business network
+
+https://developer.ibm.com/code/patterns/implement-fda-food-supplier-verification-program-on-hyperledger-composer/
+
+
 
 
 
