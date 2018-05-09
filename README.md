@@ -29,6 +29,19 @@ IBM and Danish shipping giant Maersk are teaming up to form a new company whose 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# Hyperledger Composer
+
+<img src="https://farm1.staticflickr.com/968/27085403057_c8a2ccd0cc_z.jpg" width="640" height="202" alt="composer">
+
+https://www.hyperledger.org/projects/composer
+
+
+[Composer Playground](https://composer-playground.mybluemix.net/login)
+
+<img src="https://cdn-images-1.medium.com/max/1600/0*mQOJAR6zZtU6esW6.png">
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Hyperledger Fabric
 
 <img src="https://farm1.staticflickr.com/960/41055079635_d00c82c7dd_z.jpg" width="640" height="203" alt="fabric">
@@ -42,15 +55,6 @@ is hosted by The Linux Foundation®.
 
 Deployed in Docker images.
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Hyperledger Composer
-
-<img src="https://farm1.staticflickr.com/968/27085403057_c8a2ccd0cc_z.jpg" width="640" height="202" alt="composer">
-
-https://www.hyperledger.org/projects/composer
-
-[Composer Playground](https://composer-playground.mybluemix.net/login)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
