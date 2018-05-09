@@ -3,6 +3,7 @@
 # [ibm.biz/may92018](https://ibm.biz/may92018)
   
 # IBM Code Patterns: http://ibm.biz/blockchainpattern050918 
+## Build a regulatory application that automates a smart contract deployed on a business network
 # IBM Cloud: http://ibm.biz/blockchain050918 
   
 # https://github.com/eciggaar/BlockchainPublicRegulationFabric-Food                      
