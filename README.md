@@ -1,6 +1,6 @@
 # 2018-05-09 Workshop ZGC-Innovation-Center
 
-# Blockchainintro  [ibm.biz/lacollision](https://ibm.biz/lacollision)
+# Blockchainintro [ibm.biz/may92018](https://ibm.biz/may92018)
                            
 https://github.com/eciggaar/BlockchainPublicRegulationFabric-Food                      
                                                      
