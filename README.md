@@ -24,8 +24,8 @@ IBM and Danish shipping giant Maersk are teaming up to form a new company whose 
 <a href="http://fortune.com/2017/10/16/ibm-blockchain-stellar/">IBM and Stellar Are Launching Blockchain Banking Across Multiple Countries</a>
 <p>
 
-# Blockchain Usecases
-## [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+# Blockchain Use cases
+# [Blockchain use cases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
