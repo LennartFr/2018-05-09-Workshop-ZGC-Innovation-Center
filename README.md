@@ -4,10 +4,10 @@
 
 # [ibm.biz/may92018](https://ibm.biz/may92018)
   
-# IBM Code Patterns: http://ibm.biz/blockchainpattern050918 
+## We will use the following IBM Code Pattern: http://ibm.biz/blockchainpattern050918 
 ## Build a regulatory application that automates a smart contract deployed on a business network
 
-## IBM Code Patterns: Blockchain: https://developer.ibm.com/code/technologies/blockchain/
+## All IBM Blockchain Code Patterns: Blockchain: https://developer.ibm.com/code/technologies/blockchain/
 
 # IBM Cloud: http://ibm.biz/blockchain050918 
                                                       
