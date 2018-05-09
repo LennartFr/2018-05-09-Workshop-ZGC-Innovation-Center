@@ -1,4 +1,4 @@
-# 2018-05-09 Workshop ZGC-Innovation-Center
+# 2018-05-09 Learn how to build and deploy Hyperledger applications
 
 # [ibm.biz/may92018](https://ibm.biz/may92018)
   
