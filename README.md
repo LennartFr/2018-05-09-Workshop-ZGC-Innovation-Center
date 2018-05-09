@@ -8,8 +8,7 @@
 ## IBM Code Patterns: Blockchain: https://developer.ibm.com/code/technologies/blockchain/
 
 # IBM Cloud: http://ibm.biz/blockchain050918 
-  
-                                                     
+                                                      
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # From the press: Blockchain in action <p> 
@@ -27,6 +26,8 @@ IBM and Danish shipping giant Maersk are teaming up to form a new company whose 
 ## [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Hyperledger Fabric
 
 <img src="https://farm1.staticflickr.com/960/41055079635_d00c82c7dd_z.jpg" width="640" height="203" alt="fabric">
 
